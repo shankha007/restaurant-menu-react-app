@@ -1,0 +1,123 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 9,
+  "numPassedTests": 9,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1711656886749,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 37,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 18,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 24,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 13,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 11,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 57,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite test",
+          "status": "passed",
+          "title": "test",
+          "duration": 2,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1711656889881,
+      "endTime": 1711656890057,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/__labtests/reactcheck.test.jsx"
+    }
+  ]
+}
